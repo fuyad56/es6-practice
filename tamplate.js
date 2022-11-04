@@ -14,5 +14,5 @@ const multiLine = " I love you\n"
 const multiLine2 = `I love you
 I miss you
 No. i don't need you
-Baily road e dorkar nai.`
+Bialy road e dorkar nai.`
 console.log(multiLine2);
